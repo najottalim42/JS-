@@ -113,7 +113,3 @@
 // } else {
 //     console.log("Talablar bajarilmadi");
 // }
-
-
-
-//10
